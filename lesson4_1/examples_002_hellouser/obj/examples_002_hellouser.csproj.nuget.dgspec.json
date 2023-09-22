@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\projekts\\Lesson 4\\lesson4_1\\lesson4_1.csproj": {}
+    "c:\\projekts\\Lesson 4\\lesson4_1\\examples_002_hellouser\\examples_002_hellouser.csproj": {}
   },
   "projects": {
-    "c:\\projekts\\Lesson 4\\lesson4_1\\lesson4_1.csproj": {
+    "c:\\projekts\\Lesson 4\\lesson4_1\\examples_002_hellouser\\examples_002_hellouser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\projekts\\Lesson 4\\lesson4_1\\lesson4_1.csproj",
-        "projectName": "lesson4_1",
-        "projectPath": "c:\\projekts\\Lesson 4\\lesson4_1\\lesson4_1.csproj",
+        "projectUniqueName": "c:\\projekts\\Lesson 4\\lesson4_1\\examples_002_hellouser\\examples_002_hellouser.csproj",
+        "projectName": "examples_002_hellouser",
+        "projectPath": "c:\\projekts\\Lesson 4\\lesson4_1\\examples_002_hellouser\\examples_002_hellouser.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "c:\\projekts\\Lesson 4\\lesson4_1\\obj\\",
+        "outputPath": "c:\\projekts\\Lesson 4\\lesson4_1\\examples_002_hellouser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
